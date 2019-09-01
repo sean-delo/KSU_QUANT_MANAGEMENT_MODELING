@@ -1,0 +1,128 @@
+Job ID,Job Description,Project Manager,Job Status,Original Contract,Contract CO's,Revised Contract,Original Cost,Approved Cost CO's,Revised Estimated Cost,Estimated Gross Profit,Billed to Date,Costs to Date,Gross Profit to Date
+1000,1,Sean,Inactive,80000,-6000,74000,65000,-6000,59000,15000,70000,43949.47,26050.53
+100B,100 budgeted,Sean,Active,100,0,100,80,0,80,20,0,40,-40
+100NB,100 no budget,Sean,Inactive,100,0,100,80,0,80,20,0,-46360,46360
+3,123456 hey now,Sean,Inactive,20,0,20,10,0,10,10,8515.14,-87318.72,95833.86
+130,130,Sean,Active,0,0,0,0,0,0,0,0,0,0
+15,15,Sean,Inactive,0,0,0,0,0,0,0,15284.1,-7896.5,23180.6
+155,155,Sean,Active,0,0,0,0,0,0,0,100,0,100
+2016,2016,Sean,Active,0,0,0,0,0,0,0,0,0,0
+OCIP3,33,Sean,Active,0,0,0,0,0,0,0,0,-1301.4,1301.4
+4,4,Sean,Active,0,0,0,0,0,0,0,6120,-24976.07,31096.07
+OCIP4,4,Sean,Active,0,0,0,0,0,0,0,0,-2205,2205
+5,5,Sean,Active,0,0,0,0,0,0,0,6619.53,-1796.29,8415.82
+55,55,Sean,Closed,100,0,100,0,0,0,100,2100,-818.23,2918.23
+66,66f,Sean,Active,0,0,0,0,0,0,0,1000,-236.5,1236.5
+80,80,Sean,Active,80,0,80,60,0,60,20,200,-3034.68,3234.68
+84,84,Sean,Active,0,0,0,84,0,84,-84,0,84,-84
+999,999,Sean,Active,0,0,0,0,0,0,0,100,0,100
+PENDING CO,adf,Sean,Active,0,0,0,0,0,0,0,0,-1478.12,1478.12
+1006,AIA Job,Sean,Closed,0,1300,1300,0,0,0,1300,17800,-65313.83,83113.83
+AR,ar,Dave,Active,0,0,0,0,0,0,0,100000,0,100000
+ARRET,arret,Dave,Active,100,0,100,80,0,80,20,0,-96152.57,96152.57
+ARUDF,arudf,Dave,Active,0,0,0,0,0,0,0,5080,0,5080
+AUPP7,asasdf,Dave,Closed,1630774.17,0,1630774.17,0,0,0,1630774.17,0,0,0
+11TEEN,asdf,Dave,Active,0,0,0,0,0,0,0,0,-124.8,124.8
+NO PO,asdf,Dave,Active,0,0,0,0,0,0,0,0,-1000,1000
+ORIGINAL,asdf,Dave,Active,100,60,160,0,0,0,160,0,0,0
+16-5040,asdfgvhb,Dave,Active,0,0,0,0,0,0,0,0,0,0
+QUANNNNNNN,asfasf,Dave,Inactive,759271.8,0,759271.8,0,0,0,759271.8,0,0,0
+B101,b101,Dave,Active,0,0,0,0,0,0,0,0,0,0
+1500-1,bid,Dave,Active,0,0,0,0,0,0,0,0,-4130,4130
+2077,bid 2,Dave,Active,0,0,0,0,0,0,0,0,0,0
+BLIT,BliTT,Dave,Closed,100,0,100,80,0,80,20,100,80,20
+BONNIE,bon,Dave,Active,0,0,0,100,50,150,-150,0,150,-150
+1516104,Brandi,Dave,Active,0,0,0,0,0,0,0,0,0,0
+BRANDI,Brandi,Dave,Active,0,0,0,0,0,0,0,0,-420,420
+C3,c3,Dave,Active,0,0,0,0,0,0,0,0,-1623.39,1623.39
+C4,c4,Dave,Active,0,0,0,0,0,0,0,0,-362.45,362.45
+CARLA,carla,Joe,Active,0,0,0,0,0,0,0,5000,0,5000
+CHEESE,cheese,Joe,Active,0,0,0,0,0,0,0,0,-467.66,467.66
+CHEESE2,cheese 2,Joe,Active,0,0,0,0,0,0,0,0,-350.75,350.75
+CHEREKEE,Cherekee,Joe,Inactive,100,20,120,0,10,10,110,85,10,75
+COS,cos,Joe,Active,100,0,100,50,0,50,50,0,50,-50
+110,cost code,Joe,Inactive,0,12222,12222,0,0,0,12222,8200,-4780.87,12980.87
+99101,Dean Stop Remodel ,Joe,Active,0,0,0,1000,0,6000,-6000,5500,5387.02,112.98
+DEANNA,Deanna,Joe,Active,0,0,0,0,0,0,0,0,0,0
+DELL HQ,Dell HQ,Joe,Active,0,0,0,0,0,0,0,611.8,-2891.37,3503.17
+FD,df,Joe,Active,0,0,0,0,0,0,0,0,0,0
+123,DI Test,Joe,Active,0,0,0,0,0,0,0,0,0,0
+DIR CP,DIR ,Joe,Active,0,0,0,0,0,0,0,0,0,0
+DJ,djdj,Joe,Active,0,0,0,0,0,0,0,0,0,0
+DONNA,donna,Joe,Active,0,0,0,0,0,0,0,0,0,0
+2222,dswdsd,Joe,Active,759271.8,0,759271.8,0,0,0,759271.8,0,-2652.1,2652.1
+ED,ed,Joe,Active,0,0,0,100,50,150,-150,0,150,-150
+TEE,fddf,Joe,Active,0,0,0,0,0,0,0,0,0,0
+JJJ,fgjh,Joe,Active,0,0,0,0,0,0,0,0,0,0
+JKL;,ghk,Joe,Active,0,0,0,0,0,0,0,0,0,0
+MATT,gsdfgs,Joe,Active,0,0,0,0,0,0,0,0,0,0
+HICORY NUT,Hicory Nut,Joe,Active,3000,0,3000,2500,0,2500,500,600,2500,-1900
+16-3005,hjkl,Joe,Active,0,0,0,0,0,0,0,0,0,0
+HOME DEPOT,Home Depot Clev.,Joe,Inactive,120000,0,120000,100000,0,100000,20000,0,2387.19,-2387.19
+HUNT,Hunt,Joe,Active,0,0,0,0,0,0,0,0,0,0
+HURRY,hurry,Joe,Inactive,0,0,0,0,0,0,0,0,0,0
+85,Import,Joe,Active,0,0,0,100,0,100,-100,2000,-244.13,2244.13
+JAMIE,jamie,Joe,Inactive,14884.99,0,14884.99,0,0,0,14884.99,0,0,0
+115,jan job,Sarah,Inactive,2000,0,2000,1000,0,1000,1000,0,-33211.51,33211.51
+JASON,jason,Sarah,Active,0,0,0,0,40,40,-40,0,0,0
+100,job 100,Sarah,Active,0,0,0,0,0,0,0,100,-447.76,547.76
+200,job 200,Sarah,Active,0,50,50,0,0,0,50,0,-30,30
+103,job to delete,Sarah,Active,0,0,0,0,0,0,0,0,0,0
+JULIE,julie,Sarah,Active,0,0,0,0,0,0,0,0,-576.9,576.9
+KATHLEEN,KATHLEEN  ,Sarah,Inactive,1320,0,1320,1089.32,0,1089.32,230.68,1320,1089.32,230.68
+1004,Kmart (Bagley Rd.),Sarah,Closed,0,0,0,0,0,0,0,0,-227710.22,227710.22
+KT,KT,Sarah,Active,0,0,0,0,0,0,0,0,0,0
+LINDA,Linda,Sarah,Active,1000,0,1000,800,0,800,200,0,450,-450
+LISA,lisa,Sarah,Active,0,0,0,0,0,0,0,0,0,0
+9999,lkjhgfd,Sarah,Active,759271.8,0,759271.8,0,0,0,759271.8,0,0,0
+MALLARD,Mallard Creek,Sarah,Active,0,0,0,0,0,0,0,213,-180,393
+118,Marcs,Sarah,Active,164632.24,0,164632.24,0,0,0,164632.24,245.3,-50,295.3
+MARCUS,MARCUS,Sarah,Active,0,0,0,0,0,0,0,0,0,0
+MARKIE,MARKIE,Sarah,Active,0,0,0,100,0,100,-100,0,100,-100
+1002,Mentor Senior Center,Sarah,Active,0,0,0,0,0,0,0,14460,-50566.82,65026.82
+83,mike,Sarah,Active,0,0,0,100,0,100,-100,0,100,-100
+NICHOLAS,Nicholas,Sarah,Active,0,0,0,0,0,0,0,281,0,281
+1105,non P/W,Sarah,Active,0,0,0,0,0,0,0,751,-5357.24,6108.24
+OCIP,OCIP,Sarah,Active,0,0,0,0,0,0,0,0,-1476.72,1476.72
+OCIP2,ocip2,Sarah,Active,0,0,0,0,0,0,0,0,-228.75,228.75
+OFFSET,Offset,Sarah,Active,0,0,0,0,0,0,0,0,0,0
+99100,Ofiice Overhead,Sarah,Active,0,0,0,0,0,0,0,17030,-789.78,17819.78
+OSCAR,oscar,Sarah,Active,1000,0,1000,800,0,800,200,0,340.8,-340.8
+1,Overhead,Sarah,Active,20,-110.5,-90.5,10,5017,4627,-4717.5,9976307.99,-11486157.32,21462465.31
+1005A,P/W,Tom,Active,0,0,0,0,0,0,0,0,-3119.14,3119.14
+1003,Perry Plant,Tom,Active,17000,13500,30500,13000,6402,21402,9098,61000,15716.14,45283.86
+PHASE,Phase,Tom,Active,0,0,0,0,0,0,0,0,-30,30
+109,po,Tom,Active,11680,0,11680,11161,0,11161,519,0,11161,-11161
+20150114,poo,Tom,Active,0,0,0,0,0,0,0,0,0,0
+PR,pr,Tom,Active,0,0,0,0,0,0,0,0,-33548.92,33548.92
+Q1,q1 has quanttity,Tom,Active,100,0,100,80,0,80,20,0,40,-40
+Q2,q2 no quan,Tom,Active,100,0,100,80,0,80,20,0,40,-40
+Q3,q3 quan with no trx,Tom,Active,100,0,100,80,0,80,20,0,40,-40
+QUANTITIY,quantitiy,Tom,Active,7000,0,7000,3000,0,3000,4000,0,2999,-2999
+ASFSDF,sasdfsda,Tom,Active,0,0,0,0,0,0,0,0,-2850,2850
+C1507,sd,Tom,Active,0,0,0,0,0,0,0,0,-591.64,591.64
+CLOSED,sdf,Tom,Closed,0,0,0,0,0,0,0,0,0,0
+PO PO,sf,Tom,Active,0,0,0,0,0,0,0,0,0,0
+1234,sfsfsf,Tom,Active,0,0,0,0,0,0,0,0,0,0
+2,sl,Tom,Active,200,0,200,10,1000,1010,-810,6823.95,-90704.19,97528.14
+STEVE,steve,Tom,Closed,0,0,0,0,0,0,0,0,0,0
+STOVER,Stover,Tom,Active,100,20,120,0,0,0,120,0,0,0
+98500,Strubridge Div. Sublot 61,Tom,Active,0,0,0,0,0,0,0,10450,-1341.15,11791.15
+99102,Sublot 13 (Brunswick),Tom,Active,0,0,0,0,0,0,0,1600,-1906.7,3506.7
+T AND M,T and M,Tom,Active,0,0,0,0,0,0,0,100,-100,200
+TESLA,Tesla HQ,Tom,Active,0,0,0,0,0,0,0,0,-535.65,535.65
+26,test,Tom,Inactive,0,10,10,0,15,15,-5,1185481.5,-7663.63,1193145.13
+120,test,Tom,Active,0,0,0,0,0,0,0,100,-1803.85,1903.85
+121,test,Tom,Active,0,0,0,0,0,0,0,40,0,40
+15076,test,Tom,Active,0,0,0,0,0,0,0,10765,-765,11530
+TT,tt,Tom,Active,1630774.17,0,1630774.17,0,0,0,1630774.17,0,0,0
+CRUISE,TURN UP,Tom,Active,0,0,0,0,0,0,0,281,0,281
+1001,Valley City Steel,Tom,Active,0,2200,2200,10000,4722,14722,-12522,46000,11507.13,34492.87
+PRECIOUS,willingtonie,Tom,Active,1630774.17,0,1630774.17,0,0,0,1630774.17,0,0,0
+WW,ww,Tom,Active,0,0,0,0,0,0,0,0,-250,250
+YY,y,Tom,Active,0,0,0,0,0,0,0,0,-1001,1001
+YEPPERS,Yeppers,Tom,Active,0,0,0,0,0,0,0,0,-166,166
+77,Yesam Ms Daisy,Tom,Inactive,0,0,0,0,0,0,0,931.63,-1074.63,2006.26
+119,yjyj,Tom,Active,0,0,0,0,0,0,0,0,0,0
+YO,yo,Tom,Active,0,0,0,0,0,0,0,2420,-2261.73,4681.73
+ZACHARY,Zachary,Tom,Active,0,0,0,0,0,0,0,281,-661.76,942.76
