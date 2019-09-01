@@ -60,8 +60,3 @@ plot_ly(data , x = ~Project.Manager , y = ~Gross.Profit.to.Date , name = "bar ch
 
 #Bar Chart of "Gross Profit to Date" by "Project Manager"
 plot_ly(data , x = ~Project.Manager , y = ~Gross.Profit.to.Date , name = "bar chart" , type = "pie")
-
-
-
-
-
